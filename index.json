@@ -1,7 +1,7 @@
 {
   "core": {
     "clone_url": "https://github.com/AutoTweaker/core",
-    "version": "0.1.0-alpha.8",
-    "deb_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.8/autotweaker_0.1.0.alpha.8_amd64.deb"
+    "version": "0.1.0-alpha.9",
+    "deb_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.9/autotweaker_0.1.0.alpha.9_amd64.deb"
   }
 }
