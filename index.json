@@ -4,7 +4,7 @@
       "https": "https://github.com/AutoTweaker/core.git",
       "ssh": "git@github.com:AutoTweaker/core.git"
     },
-    "version": "0.1.0-alpha.12",
-    "deb_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.12/autotweaker_0.1.0.alpha.12_amd64.deb"
+    "version": "0.1.0-alpha.13",
+    "deb_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.13/autotweaker_0.1.0.alpha.13_amd64.deb"
   }
 }
