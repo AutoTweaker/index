@@ -5,6 +5,6 @@
       "ssh": "git@github.com:AutoTweaker/core.git"
     },
     "version": "0.1.0-alpha.23+a0992ea",
-    "deb_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.23/autotweaker_0.1.0~alpha.23+a0992ea_amd64.deb"
+    "deb_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.23/autotweaker_0.1.0.alpha.23+a0992ea_amd64.deb"
   }
 }
