@@ -8,7 +8,7 @@
       "http": "https://github.com/AutoTweaker/core.git"
     },
     "latest": {
-      "version": "0.1.0-dev+1780813991.34431bf0",
+      "version": "0.1.0-alpha.26+34431bf",
       "tar_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.26/autotweaker-0.1.0-alpha.26%2B34431bf.tar",
       "zip_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.26/autotweaker-0.1.0-alpha.26%2B34431bf.zip",
       "deb_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.26/autotweaker_0.1.0.alpha.26%2B34431bf_amd64.deb"
