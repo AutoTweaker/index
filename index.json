@@ -1,10 +1,17 @@
 {
+  "org_url": "https://github.com/AutoTweaker",
   "core": {
+    "repo_url": "https://github.com/AutoTweaker/core",
+    "install_url": "https://autotweaker.github.io/install.sh",
     "clone_url": {
-      "https": "https://github.com/AutoTweaker/core.git",
-      "ssh": "git@github.com:AutoTweaker/core.git"
+      "ssh": "git@github.com:AutoTweaker/core.git",
+      "http": "https://github.com/AutoTweaker/core.git"
     },
-    "version": "0.1.0-alpha.25+cbe3f2f",
-    "deb_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.25/autotweaker_0.1.0.alpha.25+cbe3f2f_amd64.deb"
+    "latest": {
+      "version": "0.1.0-dev+1780813991.34431bf0",
+      "tar_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.26/autotweaker-0.1.0-alpha.26%2B34431bf.tar",
+      "zip_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.26/autotweaker-0.1.0-alpha.26%2B34431bf.zip",
+      "deb_url": "https://github.com/AutoTweaker/core/releases/download/v0.1.0-alpha.26/autotweaker_0.1.0.alpha.26%2B34431bf_amd64.deb"
+    }
   }
 }
